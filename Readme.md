@@ -26,4 +26,5 @@ cd bin
 ./MDSTEST.exe
 ```
 
-![Output ss](https://drive.google.com/file/d/1QsaRBNJBEvrpK3Nmf1crc9t3qCyQLLnz/view?usp=drive_link)
+![mds output](https://github.com/Shikhar253/mds-test/assets/55344241/b0284310-82f9-4747-8e19-a8a22a896fed)
+
